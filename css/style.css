@@ -29,7 +29,7 @@ img {
 	color: aliceblue;
 }
 
-.me-instagram h2 {
+.mitas-instagram h2 {
 	text-align: left;
 	border-radius: 20px;
 	border-style: solid;
@@ -44,12 +44,12 @@ img {
 
 }
 
-.me-instagram a {
+.mitas-instagram a {
 	text-decoration: none;
 	color: peachpuff;
 }
 
-.me-twitter h2 {
+.mitas-twitter h2 {
 	text-align: left;
 	border-radius: 20px;
 	border-style: solid;
@@ -63,13 +63,14 @@ img {
 	background: blueviolet;
 }
 
-.me-twitter a {
+.mitas-twitter a {
 	text-decoration: none;
 	color: peachpuff;
 }
 
-.me-bestie1 p {
+.mitas-bestie1 p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	font-size: 20px;
@@ -82,13 +83,14 @@ img {
 	background: blueviolet;
 }
 
-.me-bestie1 a {
+.mitas-bestie1 a {
 	text-decoration: none;
 	color: peachpuff;
 }
 
-.me-bestie2 p {
+.mitas-bestie2 p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	font-size: 20px;
@@ -101,13 +103,14 @@ img {
 	background: blueviolet;
 }
 
-.me-bestie2 a {
+.mitas-bestie2 a {
 	text-decoration: none;
 	color: peachpuff;
 }
 
-.me-bestie p {
+.mitas-bestie p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	font-size: 20px;
@@ -120,7 +123,7 @@ img {
 	background: blueviolet;
 }
 
-.me-bestie a {
+.mitas-bestie a {
 	text-decoration: none;
 	color: peachpuff;
 }
@@ -200,6 +203,7 @@ td:hover {
 }
 .my-form  p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	font-size: 20px;
@@ -217,6 +221,7 @@ td:hover {
 }
 .my-formlv2  p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	font-size: 20px;
@@ -234,6 +239,7 @@ td:hover {
 }
 .my-tabelfadeout  p {
 	text-align: left;
+	font-weight: bold;
 	border-radius: 20px;
 	border-style: solid;
 	font-size: 20px;
